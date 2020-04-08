@@ -16,7 +16,7 @@ This is a Montecarlo Simulation that tries to simulate the advanced os the coron
 
 - ### [data](./data/)
   Folder containing real .csv data from the virus (the Data is from Spain)
-- ### [figures](./fugyues/)
+- ### [figures](./figures/)
 
   Folder containing output (.csv and figures) from the program
 
