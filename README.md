@@ -1,6 +1,6 @@
 # Coronavirus Simulator
 
-This is a Montecarlo Simulation that tries to simulate the advanced os the coronavirus pandemic. It is written in python using, **it is not optimizated**. It has been written using the conda environment at only the libraries including in it are necessary (pandas, numpy, pylab specifically).
+This is a Montecarlo Simulation that tries to simulate the advanced os the coronavirus pandemic. It is written in python, **it is not optimizated**. It has been written using the conda environment at only the libraries including in it are necessary (pandas, numpy, pylab specifically).
 
 ![alt plot](./figures/Figure_1.png)
 
