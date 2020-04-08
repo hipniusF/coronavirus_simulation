@@ -15,10 +15,12 @@ This is a Montecarlo Simulation that tries to simulate the advanced os the coron
   Helper script for creating pylab figures from .csv.
 
 - ### [data](./data/)
+
   Folder containing real .csv data from the virus (the Data is from Spain)
+
 - ### [figures](./figures/)
 
-  Folder containing output (.csv and figures) from the program
+Folder containing output (.csv and figures) from the program
 
 - ### [coronavirus_sim.ipynb](./coronavirus_sim.ipynb)
   Jupyter notebook containing some usefull jobs. It creates the .csv of actives infections (total - deads - cured) inside the data folder (using the .csv of the same folder). It creates a plot comparing some data of the simulation and the real data (using load_figures.py).
